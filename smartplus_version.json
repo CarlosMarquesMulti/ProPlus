@@ -3,7 +3,7 @@
   "build": "Multidetergy Pro V2",
   "date": "2026-04-04",
   "download_url": "SUBSTITUIR_PELA_URL_DO_FICHEIRO_FINAL",
-  "notes": "Corrigido o arranque da aba CHIP em PySide6 ao adicionar o import em falta de QProgressBar.",
+  "notes": "https://github.com/CarlosMarquesMulti/ProPlus/releases/download/v10.3/SmartPlusEditor.exe",
   "changelog": [
     "Atualizada a versão da aplicação para 11.9.",
     "Corrigido NameError: QProgressBar is not defined na build PySide6.",
