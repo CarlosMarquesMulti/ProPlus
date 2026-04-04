@@ -1,8 +1,8 @@
 {
-  "version": "12.2",
+  "version": "12.5",
   "build": "Multidetergy Pro V2",
   "date": "2026-04-04",
-  "download_url": "SUBSTITUIR_PELA_URL_DO_FICHEIRO_FINAL",
+  "download_url": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
   "notes": "Versão ajustada para 12.2 para publicação, mantendo apenas as correções do sistema de updates já introduzidas.",
   "changelog": [
     "Atualizada a versão da aplicação para 12.2.",
