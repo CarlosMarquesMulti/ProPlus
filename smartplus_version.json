@@ -1,10 +1,15 @@
 {
-  "version": "11.9",
+  "version": "12.0",
   "build": "Multidetergy Pro V2",
   "date": "2026-04-04",
   "download_url": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
-  "notes": "Atualização disponível.",
+  "notes": "Rework visual profundo da versão PySide6 estável, com sidebar lateral totalmente redesenhada, visual mais premium e coeso, hero superior melhorado e revisão geral da apresentação sem mexer no motor lógico funcional.",
   "changelog": [
-    "Melhorias gerais."
+    "Atualizada a versão da aplicação para 12.0.",
+    "Sidebar lateral redesenhada com visual premium, cartão de marca, navegação mais forte e resumo rápido em estilo dashboard.",
+    "Hero superior melhorado com badge dinâmico da página atual e apresentação mais moderna.",
+    "Campos, botões, combos, listas e cartões receberam polimento visual com cantos mais suaves e contraste mais equilibrado.",
+    "Rodapé passou a usar cartão próprio para melhor acabamento visual.",
+    "Mantido o motor funcional de leitura/escrita do chip e o restante miolo lógico já estável."
   ]
 }
