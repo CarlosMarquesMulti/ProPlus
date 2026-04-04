@@ -1,6 +1,10 @@
 {
   "version": "11.9",
   "build": "Multidetergy Pro V2",
+  "date": "2026-04-04",
   "download_url": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
-  "notes": "Qt fix: corrected findChildren signal binding in StepEditorPanel startup."
+  "notes": "Atualização disponível.",
+  "changelog": [
+    "Melhorias gerais."
+  ]
 }
