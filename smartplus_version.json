@@ -1,12 +1,12 @@
 {
-  "version": "12.5",
+  "version": "12.6",
   "build": "Multidetergy Pro V2",
   "date": "2026-04-04",
   "download_url": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
-  "notes": "Versão ajustada para 12.2 para publicação, mantendo apenas as correções do sistema de updates já introduzidas.",
+  "notes": "Versão 12.6 com a correção da ativação inicial por janela própria de PIN, mantendo o resto da aplicação igual.",
   "changelog": [
-    "Atualizada a versão da aplicação para 12.2.",
-    "Mantidas as correções do sistema de updates introduzidas na build anterior.",
-    "Sem alterações adicionais na interface ou no motor lógico."
+    "Atualizada a versão da aplicação para 12.6.",
+    "Mantida a correção da ativação inicial com janela própria modal de PIN.",
+    "Mantido o resto da interface e do motor lógico sem alterações."
   ]
 }
