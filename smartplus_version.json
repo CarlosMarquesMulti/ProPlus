@@ -2,12 +2,9 @@
   "version": "11.9",
   "build": "Multidetergy Pro V2",
   "date": "2026-04-04",
-  "download_url": "SUBSTITUIR_PELA_URL_DO_FICHEIRO_FINAL",
-  "notes": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
+  "download_url": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
+  "notes": "Atualização disponível.",
   "changelog": [
-    "Atualizada a versão da aplicação para 11.9.",
-    "Corrigido NameError: QProgressBar is not defined na build PySide6.",
-    "Adicionado QProgressBar ao bloco de imports de PySide6.QtWidgets.",
-    "Mantido o resto da interface e da lógica sem alterações adicionais."
+    "Melhorias gerais."
   ]
 }
