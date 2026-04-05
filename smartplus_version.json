@@ -1,12 +1,16 @@
 {
-  "version": "12.7",
+  "version": "12.8",
   "build": "Multidetergy Pro V2",
   "date": "2026-04-04",
   "download_url": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
-  "notes": "Versão 12.6 com a correção da ativação inicial por janela própria de PIN, mantendo o resto da aplicação igual.",
+  "notes": "Menu CHIP simplificado com presets fixos para evitar mexidas acidentais: só fica visível a porta COM. Baud 9600, 1 área, header 64 e scan bytes 128 ficaram fixos.",
   "changelog": [
-    "Atualizada a versão da aplicação para 12.6.",
-    "Mantida a correção da ativação inicial com janela própria modal de PIN.",
-    "Mantido o resto da interface e do motor lógico sem alterações."
+    "Atualizada a versão da aplicação para 12.8.",
+    "Removidos do menu CHIP os controlos visíveis de baud, áreas, header e scan bytes.",
+    "Mantida apenas a seleção da porta COM e os botões de ler/escrever CHIP.",
+    "Baud fixo em 9600 para leitura e escrita.",
+    "Áreas no chip fixas em 1 para leitura e escrita.",
+    "Header fixo em 64 para leitura e escrita.",
+    "Scan bytes fixo em 128 para leitura."
   ]
 }
