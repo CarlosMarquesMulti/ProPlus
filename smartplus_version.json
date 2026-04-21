@@ -1,7 +1,7 @@
 {
   "version": "12.9",
   "build": "Multidetergy Pro V2",
-  "date": "2026-04-04",
+  "date": "2026-04-21",
   "download_url": "https://github.com/CarlosMarquesMulti/ProPlus/releases/latest/download/SmartPlusEditor.exe",
   "notes": "Menu CHIP simplificado com presets fixos para evitar mexidas acidentais: só fica visível a porta COM. Baud 9600, 1 área, header 64 e scan bytes 128 ficaram fixos.",
   "changelog": [
